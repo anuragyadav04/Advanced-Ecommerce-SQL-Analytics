@@ -1,0 +1,766 @@
+product_id,product_name,price,cogs,category_id
+1,Dell XPS 13,46.41,381.14,4
+2,Canon DSLR Camera,278.79,477.03,4
+3,Google Pixel 6,342.99,219.66,3
+4,Canon DSLR Camera,388.08,81.82,2
+5,Bose Headphones,196.01,549.93,2
+6,Google Pixel 6,342.23,691.58,5
+7,Apple iPhone 12,346.1,310.86,1
+8,Sony PlayStation 5,315.78,202.84,1
+9,Microsoft Surface Pro,928.21,431.43,2
+10,Nintendo Switch,186.07,175.56,2
+11,LG OLED TV,288.4,11.08,6
+12,Canon DSLR Camera,279.87,544.88,2
+13,Bose Headphones,504.14,232.28,1
+14,Bose Headphones,100.34,7.53,5
+15,Google Pixel 6,618.1,413.24,5
+16,Apple AirPods,968.94,370.84,3
+17,Fitbit Versa,849.4,398.98,3
+18,Sony PlayStation 5,202.84,136.47,4
+19,Samsung Galaxy S21,231.65,418.51,6
+20,Apple AirPods,474.64,662.26,4
+21,Apple iPhone 12,8.89,201.41,1
+22,LG OLED TV,312.6,53.27,2
+23,Apple AirPods,579.6,108.65,6
+24,Amazon Echo,67.14,100.06,4
+25,Canon DSLR Camera,734.17,276.84,5
+26,Fitbit Versa,400.15,234.24,1
+27,Samsung Galaxy S21,107.65,443.27,6
+28,Samsung Galaxy S21,719.6,665.0,2
+29,Canon DSLR Camera,679.42,268.29,1
+30,Amazon Echo,646.81,166.85,2
+31,Sony PlayStation 5,496.77,750.98,4
+32,Canon DSLR Camera,222.84,483.64,3
+33,LG OLED TV,919.92,162.18,1
+34,Nintendo Switch,494.88,197.54,3
+35,Apple AirPods,401.46,160.52,2
+36,Apple iPhone 12,734.25,640.49,2
+37,Dell XPS 13,335.83,347.49,3
+38,Google Pixel 6,665.12,384.34,4
+39,Sony PlayStation 5,644.95,20.13,1
+40,Samsung Galaxy S21,939.34,120.25,3
+41,Fitbit Versa,454.57,772.91,5
+42,Nintendo Switch,109.8,701.91,1
+43,Sony PlayStation 5,132.76,16.06,1
+44,Fitbit Versa,277.87,719.13,5
+45,Nintendo Switch,188.17,402.35,4
+46,Sony PlayStation 5,602.66,328.57,5
+47,Sony PlayStation 5,719.77,751.27,6
+48,LG OLED TV,477.65,365.13,3
+49,Apple iPhone 12,661.24,760.31,1
+50,Amazon Echo,851.28,242.13,2
+51,Sony PlayStation 5,105.36,343.37,6
+52,Nintendo Switch,815.58,672.95,3
+53,Samsung Galaxy S21,55.85,194.06,2
+54,Samsung Galaxy S21,718.87,15.84,4
+55,Dell XPS 13,826.31,507.95,4
+56,Apple iPhone 12,735.5,703.11,1
+57,Nintendo Switch,542.31,219.03,1
+58,Samsung Galaxy S21,435.55,731.2,4
+59,Apple AirPods,762.52,211.45,2
+60,Apple AirPods,567.84,380.34,6
+61,Canon DSLR Camera,149.44,392.41,6
+62,Nintendo Switch,600.89,686.3,2
+63,Amazon Echo,785.88,113.35,5
+64,Bose Headphones,162.54,742.77,2
+65,Canon DSLR Camera,263.07,177.3,5
+66,Apple iPhone 12,882.13,774.74,3
+67,Amazon Echo,592.07,109.96,1
+68,Amazon Echo,849.32,215.0,3
+69,LG OLED TV,351.89,278.16,6
+70,Microsoft Surface Pro,157.39,686.66,2
+71,Amazon Echo,223.02,12.37,3
+72,LG OLED TV,605.97,450.55,4
+73,Amazon Echo,686.42,358.22,6
+74,Dell XPS 13,788.22,137.57,3
+75,Google Pixel 6,972.93,483.47,4
+76,Canon DSLR Camera,26.77,425.86,5
+77,Apple iPhone 12,141.69,61.13,4
+78,Microsoft Surface Pro,922.92,527.14,5
+79,Apple AirPods,359.5,118.07,2
+80,Bose Headphones,388.37,790.83,5
+81,Nintendo Switch,246.69,304.07,3
+82,Google Pixel 6,219.92,586.92,5
+83,Apple iPhone 12,330.37,18.54,6
+84,Sony PlayStation 5,733.78,158.23,5
+85,Samsung Galaxy S21,571.17,326.97,6
+86,Google Pixel 6,121.0,738.74,4
+87,Bose Headphones,345.61,426.21,5
+88,Canon DSLR Camera,181.07,688.48,2
+89,Apple iPhone 12,976.42,543.46,2
+90,Sony PlayStation 5,94.69,497.72,1
+91,Sony PlayStation 5,978.31,217.28,4
+92,Amazon Echo,917.31,735.66,3
+93,Apple AirPods,658.97,229.72,2
+94,Nintendo Switch,363.11,695.93,1
+95,Bose Headphones,360.56,79.62,5
+96,Amazon Echo,84.01,97.55,3
+97,Bose Headphones,754.36,249.38,4
+98,Bose Headphones,603.66,529.45,2
+99,Bose Headphones,526.83,771.31,5
+100,Microsoft Surface Pro,888.63,88.77,1
+101,Microsoft Surface Pro,130.09,575.72,4
+102,Samsung Galaxy S21,838.15,582.68,6
+103,Bose Headphones,488.1,664.82,5
+104,Apple iPhone 12,533.0,153.15,2
+105,Sony PlayStation 5,507.56,353.74,1
+106,Dell XPS 13,120.61,642.89,2
+107,Google Pixel 6,71.41,403.64,1
+108,Fitbit Versa,190.71,687.59,2
+109,Amazon Echo,468.21,276.49,6
+110,Google Pixel 6,784.7,278.42,3
+111,Google Pixel 6,710.09,731.86,5
+112,Fitbit Versa,893.6,427.64,4
+113,Samsung Galaxy S21,324.48,748.03,4
+114,Nintendo Switch,548.15,601.68,2
+115,Dell XPS 13,333.38,22.7,3
+116,Sony PlayStation 5,6.06,97.19,1
+117,Microsoft Surface Pro,707.52,388.79,4
+118,Apple AirPods,554.87,625.68,1
+119,Apple iPhone 12,49.68,532.43,2
+120,Fitbit Versa,461.22,313.94,6
+121,Microsoft Surface Pro,865.09,485.48,1
+122,Google Pixel 6,726.67,421.79,5
+123,Amazon Echo,83.56,245.75,2
+124,Microsoft Surface Pro,364.49,430.68,5
+125,Fitbit Versa,270.33,727.85,3
+126,Microsoft Surface Pro,739.37,505.05,2
+127,Dell XPS 13,947.66,178.88,4
+128,Google Pixel 6,81.87,32.97,1
+129,Amazon Echo,389.3,705.96,4
+130,Sony PlayStation 5,239.69,390.77,1
+131,Dell XPS 13,36.21,779.5,5
+132,Bose Headphones,622.68,750.88,6
+133,Dell XPS 13,296.04,58.88,6
+134,Bose Headphones,69.49,699.34,2
+135,Apple iPhone 12,66.43,778.29,5
+136,Nintendo Switch,412.49,529.78,2
+137,Fitbit Versa,686.14,128.39,6
+138,Apple AirPods,628.22,367.03,6
+139,Apple iPhone 12,26.2,470.37,3
+140,Sony PlayStation 5,732.09,627.73,3
+141,Dell XPS 13,511.69,429.68,6
+142,LG OLED TV,621.91,140.93,4
+143,Apple AirPods,94.68,612.09,3
+144,Amazon Echo,494.07,640.95,2
+145,LG OLED TV,809.01,407.13,3
+146,Canon DSLR Camera,343.84,276.0,4
+147,Fitbit Versa,382.58,797.27,3
+148,Bose Headphones,419.63,336.98,5
+149,Canon DSLR Camera,403.62,469.41,1
+150,Nintendo Switch,269.87,712.73,6
+151,Samsung Galaxy S21,629.48,305.04,2
+152,Amazon Echo,943.54,25.2,5
+153,Nintendo Switch,509.41,552.19,6
+154,Fitbit Versa,24.99,18.84,3
+155,LG OLED TV,223.51,170.38,2
+156,Apple iPhone 12,477.32,684.19,5
+157,Fitbit Versa,192.28,96.37,5
+158,LG OLED TV,18.87,196.93,2
+159,Sony PlayStation 5,842.02,283.42,4
+160,Samsung Galaxy S21,683.38,440.63,1
+161,Sony PlayStation 5,231.75,63.32,4
+162,Nintendo Switch,235.06,315.25,5
+163,Canon DSLR Camera,446.46,491.05,3
+164,Nintendo Switch,926.91,488.87,4
+165,Dell XPS 13,460.7,402.61,1
+166,Microsoft Surface Pro,625.03,279.75,4
+167,Apple iPhone 12,962.67,591.57,2
+168,Samsung Galaxy S21,840.7,81.22,6
+169,Dell XPS 13,694.57,616.54,6
+170,Google Pixel 6,786.52,375.14,6
+171,Dell XPS 13,769.22,441.29,1
+172,Fitbit Versa,21.26,333.63,3
+173,Dell XPS 13,780.3,135.42,5
+174,Dell XPS 13,558.27,748.58,3
+175,Apple AirPods,634.28,425.29,3
+176,Google Pixel 6,121.38,120.41,1
+177,Bose Headphones,905.03,753.94,1
+178,Fitbit Versa,862.41,510.13,3
+179,Apple AirPods,17.5,386.28,2
+180,Bose Headphones,958.92,314.0,1
+181,Amazon Echo,448.13,380.56,3
+182,Sony PlayStation 5,66.13,776.21,4
+183,LG OLED TV,890.29,412.8,1
+184,Sony PlayStation 5,706.25,249.78,5
+185,LG OLED TV,109.6,679.75,2
+186,Sony PlayStation 5,966.56,316.53,1
+187,Bose Headphones,474.99,26.34,5
+188,Samsung Galaxy S21,508.77,179.26,6
+189,Microsoft Surface Pro,340.74,189.08,5
+190,Dell XPS 13,553.51,520.49,1
+191,Sony PlayStation 5,822.04,76.1,6
+192,Apple iPhone 12,867.55,576.19,1
+193,Apple AirPods,974.5,731.29,4
+194,Fitbit Versa,343.49,792.52,1
+195,Dell XPS 13,600.48,87.28,5
+196,Google Pixel 6,467.2,768.06,1
+197,Sony PlayStation 5,311.55,106.75,3
+198,Fitbit Versa,970.47,449.38,2
+199,Fitbit Versa,319.45,72.28,3
+200,Dell XPS 13,995.3,321.47,4
+201,Apple AirPods,800.05,271.8,4
+202,Microsoft Surface Pro,712.09,333.84,3
+203,Google Pixel 6,722.14,725.87,1
+204,Sony PlayStation 5,884.32,77.36,5
+205,Amazon Echo,674.81,278.81,6
+206,Nintendo Switch,60.21,49.47,2
+207,LG OLED TV,101.96,171.18,1
+208,Canon DSLR Camera,61.55,315.67,4
+209,Bose Headphones,467.61,64.34,2
+210,Samsung Galaxy S21,533.74,306.89,5
+211,Fitbit Versa,329.47,721.07,1
+212,Bose Headphones,220.34,252.08,3
+213,Dell XPS 13,324.72,51.39,2
+214,Fitbit Versa,631.46,105.01,6
+215,LG OLED TV,80.3,633.44,5
+216,Samsung Galaxy S21,436.42,163.72,3
+217,Apple iPhone 12,633.37,340.43,5
+218,Canon DSLR Camera,553.07,177.55,1
+219,Sony PlayStation 5,221.89,379.81,2
+220,Amazon Echo,778.28,715.19,5
+221,Sony PlayStation 5,324.3,368.79,5
+222,Samsung Galaxy S21,11.58,453.23,4
+223,Apple AirPods,994.27,750.28,3
+224,Bose Headphones,766.95,230.33,2
+225,Sony PlayStation 5,604.03,566.23,4
+226,LG OLED TV,968.47,271.93,2
+227,Bose Headphones,819.81,350.48,4
+228,Samsung Galaxy S21,486.62,790.47,2
+229,Samsung Galaxy S21,651.93,717.93,1
+230,Dell XPS 13,706.93,504.02,5
+231,Sony PlayStation 5,107.28,760.65,2
+232,Apple AirPods,630.66,450.37,5
+233,Amazon Echo,731.74,486.22,1
+234,Fitbit Versa,70.5,342.82,2
+235,Google Pixel 6,743.75,47.12,2
+236,Samsung Galaxy S21,270.74,339.6,3
+237,Fitbit Versa,541.98,579.3,6
+238,LG OLED TV,245.02,795.19,4
+239,Amazon Echo,51.28,391.91,2
+240,Sony PlayStation 5,303.87,733.63,5
+241,Samsung Galaxy S21,783.69,227.31,5
+242,Dell XPS 13,762.54,30.4,2
+243,Sony PlayStation 5,254.55,208.23,1
+244,Canon DSLR Camera,766.56,499.8,5
+245,Apple iPhone 12,56.71,113.33,5
+246,Apple AirPods,585.32,730.54,3
+247,Apple AirPods,138.32,648.85,1
+248,Sony PlayStation 5,945.99,440.95,2
+249,Sony PlayStation 5,846.78,471.66,3
+250,Nintendo Switch,78.78,550.94,5
+251,LG OLED TV,155.6,477.51,2
+252,Dell XPS 13,263.76,498.93,6
+253,Amazon Echo,652.03,708.25,4
+254,Microsoft Surface Pro,603.43,210.99,6
+255,Fitbit Versa,383.98,348.12,2
+256,LG OLED TV,159.68,472.2,6
+257,Sony PlayStation 5,392.71,629.75,5
+258,Apple iPhone 12,758.59,400.62,5
+259,Apple iPhone 12,942.36,675.57,1
+260,LG OLED TV,271.29,605.34,2
+261,Samsung Galaxy S21,750.67,634.54,2
+262,Sony PlayStation 5,625.93,215.43,3
+263,Amazon Echo,898.02,77.72,3
+264,Sony PlayStation 5,61.6,145.14,1
+265,Apple iPhone 12,437.63,346.24,3
+266,Google Pixel 6,717.84,578.78,4
+267,Nintendo Switch,105.41,733.33,6
+268,Apple AirPods,240.33,274.95,3
+269,Apple iPhone 12,939.59,130.83,5
+270,Apple iPhone 12,33.61,545.01,4
+271,Sony PlayStation 5,428.46,458.41,4
+272,Sony PlayStation 5,566.26,432.02,6
+273,Canon DSLR Camera,305.41,421.32,3
+274,Fitbit Versa,834.15,649.66,3
+275,Microsoft Surface Pro,79.04,653.75,1
+276,Nintendo Switch,463.16,297.42,4
+277,Bose Headphones,450.91,448.12,5
+278,Samsung Galaxy S21,649.44,752.78,5
+279,Nintendo Switch,388.0,205.23,6
+280,Apple AirPods,829.57,749.38,2
+281,Bose Headphones,952.17,355.93,4
+282,Microsoft Surface Pro,791.06,683.92,4
+283,Bose Headphones,518.0,706.02,4
+284,Apple iPhone 12,802.3,280.95,3
+285,Sony PlayStation 5,118.51,550.7,5
+286,Nintendo Switch,453.19,768.88,6
+287,LG OLED TV,479.66,18.85,1
+288,Apple iPhone 12,236.06,219.0,6
+289,Google Pixel 6,31.04,262.73,5
+290,Google Pixel 6,188.63,49.77,2
+291,LG OLED TV,509.72,732.5,6
+292,Apple iPhone 12,195.34,608.55,3
+293,Samsung Galaxy S21,781.96,573.53,1
+294,Google Pixel 6,765.16,234.92,3
+295,Fitbit Versa,285.59,419.02,2
+296,Amazon Echo,698.18,664.76,1
+297,Canon DSLR Camera,130.46,621.13,6
+298,Bose Headphones,68.96,514.69,1
+299,Apple AirPods,475.78,746.72,6
+300,Fitbit Versa,458.03,746.52,5
+301,Canon DSLR Camera,643.35,231.48,1
+302,Dell XPS 13,941.5,482.66,4
+303,Amazon Echo,346.72,492.39,2
+304,Microsoft Surface Pro,848.35,732.82,2
+305,Microsoft Surface Pro,297.68,263.05,6
+306,Google Pixel 6,509.9,245.96,1
+307,Bose Headphones,343.93,676.39,6
+308,Sony PlayStation 5,343.72,446.51,6
+309,Microsoft Surface Pro,703.2,560.55,6
+310,Fitbit Versa,965.82,41.49,5
+311,Amazon Echo,694.63,569.91,1
+312,Canon DSLR Camera,959.94,611.08,5
+313,Apple AirPods,994.89,589.99,4
+314,Dell XPS 13,565.08,419.81,6
+315,Google Pixel 6,381.08,285.89,5
+316,Bose Headphones,210.76,232.39,5
+317,Microsoft Surface Pro,402.87,532.34,5
+318,Apple AirPods,616.65,195.47,1
+319,Canon DSLR Camera,802.16,353.37,3
+320,Samsung Galaxy S21,508.9,736.52,5
+321,Fitbit Versa,528.55,650.59,6
+322,Fitbit Versa,512.52,80.56,2
+323,Microsoft Surface Pro,757.72,574.59,2
+324,LG OLED TV,686.49,782.72,3
+325,LG OLED TV,478.31,468.56,5
+326,Canon DSLR Camera,878.54,733.47,2
+327,Nintendo Switch,102.95,516.24,4
+328,Samsung Galaxy S21,636.85,491.19,3
+329,Fitbit Versa,497.41,262.9,1
+330,Google Pixel 6,390.32,682.81,6
+331,Amazon Echo,49.52,196.78,1
+332,Canon DSLR Camera,185.65,186.63,1
+333,Dell XPS 13,729.08,330.08,5
+334,Bose Headphones,946.38,136.3,1
+335,Google Pixel 6,811.34,535.09,6
+336,Fitbit Versa,550.49,196.63,4
+337,Dell XPS 13,74.65,502.81,6
+338,Sony PlayStation 5,95.92,733.84,3
+339,Bose Headphones,568.67,216.5,1
+340,Dell XPS 13,769.62,722.72,4
+341,LG OLED TV,546.13,722.8,3
+342,Canon DSLR Camera,924.57,759.14,3
+343,Microsoft Surface Pro,462.76,749.67,1
+344,Samsung Galaxy S21,77.12,672.1,6
+345,LG OLED TV,553.57,295.89,5
+346,Google Pixel 6,10.3,565.97,3
+347,Apple iPhone 12,937.12,669.23,6
+348,Apple iPhone 12,177.45,487.39,3
+349,Microsoft Surface Pro,218.9,105.08,5
+350,Canon DSLR Camera,284.45,725.64,3
+351,Google Pixel 6,459.84,678.54,3
+352,Dell XPS 13,223.82,46.79,6
+353,Apple AirPods,503.62,383.27,1
+354,Fitbit Versa,706.29,546.01,1
+355,Microsoft Surface Pro,646.29,335.44,3
+356,Microsoft Surface Pro,227.04,349.53,6
+357,Google Pixel 6,67.21,561.28,2
+358,Apple AirPods,387.5,131.77,4
+359,Nintendo Switch,249.23,606.8,1
+360,Samsung Galaxy S21,960.82,467.25,4
+361,Apple AirPods,635.84,396.87,2
+362,LG OLED TV,338.1,713.96,3
+363,Apple iPhone 12,646.77,458.57,5
+364,Nintendo Switch,680.15,474.6,5
+365,Sony PlayStation 5,520.98,553.03,3
+366,Fitbit Versa,586.22,65.15,4
+367,Dell XPS 13,887.07,597.61,1
+368,Fitbit Versa,457.21,80.65,3
+369,Apple AirPods,497.52,305.54,3
+370,LG OLED TV,731.0,377.55,2
+371,Nintendo Switch,455.71,29.37,4
+372,LG OLED TV,210.41,81.28,5
+373,Amazon Echo,28.4,605.32,6
+374,Microsoft Surface Pro,393.27,61.59,4
+375,Apple AirPods,524.32,459.87,6
+376,Samsung Galaxy S21,898.64,434.74,6
+377,Dell XPS 13,27.02,681.69,5
+378,Sony PlayStation 5,789.07,656.05,6
+379,Samsung Galaxy S21,875.47,378.44,3
+380,Apple AirPods,774.22,559.9,3
+381,Sony PlayStation 5,396.95,78.97,6
+382,Apple iPhone 12,765.08,555.92,1
+383,Samsung Galaxy S21,931.05,523.81,1
+384,Bose Headphones,611.23,791.65,1
+385,Sony PlayStation 5,154.66,91.68,2
+386,LG OLED TV,306.84,35.73,6
+387,Fitbit Versa,853.0,376.46,4
+388,Nintendo Switch,130.2,343.53,2
+389,Canon DSLR Camera,806.45,142.97,6
+390,Canon DSLR Camera,35.57,497.53,3
+391,Apple iPhone 12,879.74,307.53,4
+392,Apple AirPods,867.68,7.48,6
+393,Nintendo Switch,978.42,136.61,4
+394,Samsung Galaxy S21,787.71,589.19,1
+395,Microsoft Surface Pro,12.92,42.52,4
+396,Canon DSLR Camera,443.02,7.91,2
+397,Samsung Galaxy S21,614.93,736.54,4
+398,Canon DSLR Camera,231.5,206.57,1
+399,Sony PlayStation 5,947.97,410.5,3
+400,Apple iPhone 12,899.28,302.75,6
+401,Bose Headphones,449.91,113.57,1
+402,Canon DSLR Camera,780.97,595.42,6
+403,Bose Headphones,444.89,641.6,2
+404,Bose Headphones,119.92,483.8,1
+405,Nintendo Switch,892.94,297.6,1
+406,Dell XPS 13,677.84,773.14,2
+407,Google Pixel 6,512.79,42.28,4
+408,LG OLED TV,852.73,363.39,2
+409,Dell XPS 13,795.32,355.1,6
+410,Apple iPhone 12,999.76,723.89,4
+411,Bose Headphones,92.97,632.44,4
+412,Bose Headphones,526.45,301.46,4
+413,Apple iPhone 12,303.03,137.9,2
+414,Microsoft Surface Pro,107.05,179.66,6
+415,Canon DSLR Camera,438.79,176.0,2
+416,Google Pixel 6,343.13,79.6,1
+417,Canon DSLR Camera,363.24,127.89,1
+418,LG OLED TV,241.65,177.2,6
+419,Canon DSLR Camera,139.13,77.24,3
+420,Apple AirPods,294.87,763.49,3
+421,LG OLED TV,328.16,298.1,4
+422,Apple AirPods,447.36,207.89,6
+423,Google Pixel 6,473.35,251.49,2
+424,Amazon Echo,885.36,215.01,3
+425,Google Pixel 6,674.78,402.69,5
+426,Fitbit Versa,876.27,738.07,6
+427,Apple iPhone 12,473.32,448.51,3
+428,Microsoft Surface Pro,222.99,87.95,4
+429,Amazon Echo,94.17,25.51,4
+430,Amazon Echo,653.0,617.86,5
+431,Samsung Galaxy S21,452.68,430.22,1
+432,Google Pixel 6,385.46,44.12,1
+433,Canon DSLR Camera,457.55,61.36,1
+434,Fitbit Versa,170.09,557.8,3
+435,Canon DSLR Camera,439.44,724.37,1
+436,Samsung Galaxy S21,119.89,782.99,6
+437,Apple AirPods,476.25,21.37,1
+438,Dell XPS 13,499.12,192.74,5
+439,Bose Headphones,325.26,216.81,6
+440,Fitbit Versa,110.76,353.99,1
+441,Fitbit Versa,516.44,742.07,2
+442,Nintendo Switch,328.87,502.27,2
+443,Apple iPhone 12,128.65,230.37,2
+444,LG OLED TV,118.05,617.98,5
+445,Sony PlayStation 5,488.22,264.37,3
+446,Amazon Echo,390.97,755.14,4
+447,Sony PlayStation 5,745.88,612.95,5
+448,Bose Headphones,823.33,169.94,6
+449,Fitbit Versa,206.04,405.93,5
+450,Samsung Galaxy S21,74.59,403.39,6
+451,Apple AirPods,749.75,747.01,2
+452,Amazon Echo,470.34,115.25,6
+453,Bose Headphones,152.41,669.45,5
+454,Microsoft Surface Pro,690.61,325.98,5
+455,Samsung Galaxy S21,640.31,143.47,2
+456,Canon DSLR Camera,819.77,14.51,4
+457,Microsoft Surface Pro,116.99,136.5,2
+458,Fitbit Versa,967.03,596.28,5
+459,Nintendo Switch,89.8,103.35,6
+460,Apple iPhone 12,932.33,97.43,1
+461,Apple iPhone 12,695.23,169.0,4
+462,Apple iPhone 12,344.7,633.81,2
+463,Apple AirPods,498.13,231.57,5
+464,Google Pixel 6,164.77,454.35,5
+465,Sony PlayStation 5,122.29,768.93,2
+466,Dell XPS 13,344.34,112.07,2
+467,Apple iPhone 12,788.79,179.51,6
+468,LG OLED TV,704.32,101.83,5
+469,Canon DSLR Camera,708.33,748.51,4
+470,Google Pixel 6,521.49,557.25,3
+471,Dell XPS 13,32.42,228.19,3
+472,Microsoft Surface Pro,416.79,37.32,6
+473,Fitbit Versa,708.61,81.05,5
+474,Apple AirPods,663.67,219.38,6
+475,Nintendo Switch,370.64,62.36,2
+476,Apple iPhone 12,150.71,450.95,2
+477,Microsoft Surface Pro,179.99,261.64,4
+478,Amazon Echo,799.89,574.68,5
+479,Nintendo Switch,632.79,787.1,3
+480,Nintendo Switch,503.99,678.82,2
+481,Dell XPS 13,820.48,175.64,1
+482,Apple AirPods,734.11,402.14,5
+483,Apple iPhone 12,673.09,302.82,2
+484,Sony PlayStation 5,609.39,761.88,1
+485,Apple AirPods,733.86,8.71,3
+486,Microsoft Surface Pro,138.48,117.14,6
+487,Microsoft Surface Pro,640.14,668.47,4
+488,Fitbit Versa,912.36,688.98,3
+489,LG OLED TV,398.04,128.23,5
+490,Microsoft Surface Pro,19.35,734.04,2
+491,Bose Headphones,721.79,158.05,5
+492,Canon DSLR Camera,721.06,476.2,3
+493,Amazon Echo,70.96,308.26,4
+494,Samsung Galaxy S21,597.37,20.43,6
+495,Canon DSLR Camera,332.39,80.98,5
+496,Canon DSLR Camera,740.52,430.81,2
+497,Canon DSLR Camera,446.86,495.7,4
+498,Microsoft Surface Pro,387.68,71.07,1
+499,Fitbit Versa,516.69,346.24,6
+500,Samsung Galaxy S21,521.39,546.45,5
+501,Microsoft Surface Pro,894.17,537.02,2
+502,Nintendo Switch,142.86,4.6,1
+503,Canon DSLR Camera,989.89,779.4,4
+504,Apple AirPods,498.27,131.52,3
+505,Samsung Galaxy S21,34.0,76.21,4
+506,Sony PlayStation 5,16.77,291.56,1
+507,Canon DSLR Camera,992.32,633.43,6
+508,Microsoft Surface Pro,97.47,788.9,6
+509,Microsoft Surface Pro,43.49,690.51,4
+510,Dell XPS 13,344.25,223.08,4
+511,Sony PlayStation 5,95.92,595.09,2
+512,Nintendo Switch,167.88,542.88,6
+513,Bose Headphones,888.15,457.83,1
+514,Samsung Galaxy S21,86.62,479.66,1
+515,Apple AirPods,89.48,118.26,4
+516,LG OLED TV,878.86,670.42,2
+517,Amazon Echo,327.09,257.29,1
+518,Dell XPS 13,416.29,350.87,1
+519,Fitbit Versa,486.22,372.66,6
+520,Apple iPhone 12,519.49,797.31,5
+521,Bose Headphones,270.21,728.89,6
+522,LG OLED TV,465.92,275.04,6
+523,Samsung Galaxy S21,342.49,532.45,2
+524,LG OLED TV,478.74,285.47,5
+525,Amazon Echo,528.89,112.22,3
+526,LG OLED TV,666.43,792.96,1
+527,Apple iPhone 12,95.31,749.97,2
+528,Sony PlayStation 5,683.31,154.28,6
+529,Apple AirPods,434.67,798.7,1
+530,Google Pixel 6,806.86,503.95,1
+531,Nintendo Switch,939.99,615.46,3
+532,Apple AirPods,664.14,246.55,6
+533,Amazon Echo,576.84,785.73,2
+534,Google Pixel 6,844.36,188.92,5
+535,Microsoft Surface Pro,390.28,260.26,1
+536,Canon DSLR Camera,191.79,78.86,6
+537,Apple AirPods,943.36,186.99,6
+538,Canon DSLR Camera,297.33,146.67,2
+539,Nintendo Switch,99.8,120.36,5
+540,Nintendo Switch,219.86,167.91,3
+541,Bose Headphones,198.23,399.37,1
+542,Apple AirPods,12.38,450.54,2
+543,Google Pixel 6,663.21,581.07,5
+544,LG OLED TV,24.39,577.72,6
+545,Sony PlayStation 5,780.08,469.57,4
+546,Nintendo Switch,157.58,622.32,5
+547,Canon DSLR Camera,564.52,117.89,3
+548,Nintendo Switch,434.05,598.92,4
+549,Amazon Echo,793.97,439.42,5
+550,Apple AirPods,558.47,567.78,1
+551,Amazon Echo,597.84,401.17,6
+552,Amazon Echo,711.37,314.35,2
+553,Apple iPhone 12,316.33,613.38,3
+554,Microsoft Surface Pro,316.74,791.19,2
+555,Fitbit Versa,597.19,448.01,4
+556,Canon DSLR Camera,108.96,600.81,1
+557,Samsung Galaxy S21,945.78,436.99,2
+558,Microsoft Surface Pro,107.91,192.53,2
+559,Sony PlayStation 5,377.73,138.46,5
+560,Canon DSLR Camera,5.24,299.44,3
+561,Microsoft Surface Pro,186.95,515.04,6
+562,Dell XPS 13,127.88,740.15,4
+563,Sony PlayStation 5,76.08,343.29,5
+564,Samsung Galaxy S21,593.25,208.34,5
+565,Samsung Galaxy S21,34.69,111.84,1
+566,Apple AirPods,611.37,196.07,2
+567,Microsoft Surface Pro,424.66,321.58,2
+568,Sony PlayStation 5,221.76,781.04,4
+569,Samsung Galaxy S21,695.56,530.96,5
+570,Google Pixel 6,9.32,33.56,3
+571,Microsoft Surface Pro,577.31,478.47,1
+572,Sony PlayStation 5,992.5,516.9,1
+573,Microsoft Surface Pro,189.88,430.32,2
+574,LG OLED TV,366.23,532.75,6
+575,Amazon Echo,282.66,251.07,1
+576,Apple iPhone 12,103.47,508.4,3
+577,Nintendo Switch,754.83,339.82,4
+578,Apple iPhone 12,429.92,717.55,6
+579,Samsung Galaxy S21,234.02,368.85,6
+580,Amazon Echo,862.13,596.17,4
+581,Dell XPS 13,932.76,712.45,5
+582,LG OLED TV,574.4,238.06,4
+583,Google Pixel 6,136.56,745.26,6
+584,Dell XPS 13,879.95,384.01,6
+585,Dell XPS 13,919.58,598.59,5
+586,Apple AirPods,403.72,567.4,5
+587,Samsung Galaxy S21,100.06,278.85,2
+588,Apple iPhone 12,964.37,650.58,3
+589,Sony PlayStation 5,711.44,681.23,3
+590,Apple AirPods,463.1,195.29,5
+591,LG OLED TV,226.37,24.74,2
+592,Microsoft Surface Pro,114.68,225.5,6
+593,Apple iPhone 12,479.55,649.46,6
+594,Samsung Galaxy S21,714.59,195.93,2
+595,Bose Headphones,760.8,497.19,1
+596,Sony PlayStation 5,691.05,694.18,4
+597,Canon DSLR Camera,745.47,511.19,5
+598,Bose Headphones,573.23,216.59,4
+599,Samsung Galaxy S21,195.88,395.4,5
+600,Apple AirPods,228.4,130.94,4
+601,LG OLED TV,98.61,464.24,6
+602,Sony PlayStation 5,768.58,676.59,6
+603,Sony PlayStation 5,427.12,602.12,2
+604,Amazon Echo,998.83,359.55,3
+605,Fitbit Versa,333.25,751.94,5
+606,Samsung Galaxy S21,424.8,49.52,4
+607,Amazon Echo,281.53,281.24,6
+608,Microsoft Surface Pro,357.08,602.6,1
+609,Dell XPS 13,615.79,44.02,2
+610,LG OLED TV,139.31,41.46,6
+611,Sony PlayStation 5,803.21,794.07,5
+612,Samsung Galaxy S21,575.35,277.59,6
+613,Apple iPhone 12,125.72,614.4,2
+614,Fitbit Versa,134.18,69.78,2
+615,LG OLED TV,556.2,327.25,2
+616,Nintendo Switch,542.76,574.64,2
+617,Fitbit Versa,696.32,156.38,3
+618,Microsoft Surface Pro,841.96,445.21,1
+619,Bose Headphones,442.58,666.69,2
+620,Amazon Echo,99.82,407.63,6
+621,Microsoft Surface Pro,200.9,508.04,5
+622,Google Pixel 6,796.23,619.94,6
+623,Amazon Echo,684.73,459.92,3
+624,Sony PlayStation 5,342.64,763.5,3
+625,Microsoft Surface Pro,690.43,243.54,3
+626,Microsoft Surface Pro,989.93,225.33,1
+627,Microsoft Surface Pro,498.05,315.11,5
+628,Canon DSLR Camera,392.42,399.94,6
+629,LG OLED TV,326.15,54.65,1
+630,Apple AirPods,333.47,469.32,5
+631,Nintendo Switch,152.35,205.14,5
+632,Google Pixel 6,630.86,386.14,2
+633,Sony PlayStation 5,718.53,609.67,1
+634,Dell XPS 13,395.28,620.24,4
+635,Fitbit Versa,44.23,279.55,3
+636,Sony PlayStation 5,37.99,674.34,3
+637,Nintendo Switch,400.49,38.31,4
+638,Fitbit Versa,466.56,170.78,6
+639,Samsung Galaxy S21,654.9,386.9,1
+640,Fitbit Versa,321.64,236.28,2
+641,Apple AirPods,130.89,273.07,2
+642,Fitbit Versa,437.92,749.04,4
+643,Apple iPhone 12,344.74,745.56,2
+644,Google Pixel 6,64.5,593.09,2
+645,Bose Headphones,267.28,664.94,4
+646,Apple iPhone 12,485.49,67.94,3
+647,Bose Headphones,647.95,14.6,1
+648,Apple iPhone 12,275.1,221.85,6
+649,Dell XPS 13,142.09,277.36,5
+650,Sony PlayStation 5,543.8,205.44,1
+651,Google Pixel 6,138.94,259.4,4
+652,Fitbit Versa,932.22,423.73,5
+653,Samsung Galaxy S21,131.68,782.85,1
+654,Bose Headphones,157.03,373.54,1
+655,Amazon Echo,645.28,93.56,6
+656,Apple AirPods,92.5,85.19,5
+657,Samsung Galaxy S21,129.54,38.56,6
+658,Nintendo Switch,95.76,59.2,4
+659,Samsung Galaxy S21,347.56,527.68,3
+660,Nintendo Switch,945.25,171.36,1
+661,Dell XPS 13,648.53,486.79,1
+662,Google Pixel 6,27.58,422.4,2
+663,Dell XPS 13,717.29,68.26,1
+664,Nintendo Switch,631.04,684.65,6
+665,LG OLED TV,22.26,665.86,2
+666,Fitbit Versa,231.93,588.72,1
+667,Samsung Galaxy S21,51.1,651.49,2
+668,Nintendo Switch,417.31,220.08,2
+669,Samsung Galaxy S21,830.83,332.0,5
+670,LG OLED TV,933.65,5.7,6
+671,Canon DSLR Camera,772.52,690.04,5
+672,Fitbit Versa,115.82,566.98,1
+673,Amazon Echo,84.79,77.77,3
+674,Apple iPhone 12,731.33,547.34,5
+675,Bose Headphones,550.08,79.23,4
+676,Nintendo Switch,101.25,3.24,6
+677,Amazon Echo,931.56,617.43,3
+678,Nintendo Switch,671.82,480.74,5
+679,Microsoft Surface Pro,994.63,236.42,4
+680,Amazon Echo,218.49,293.19,6
+681,Fitbit Versa,685.87,575.1,3
+682,Fitbit Versa,326.99,230.8,1
+683,Apple iPhone 12,343.77,26.49,6
+684,Nintendo Switch,645.25,761.23,4
+685,Samsung Galaxy S21,25.99,438.99,2
+686,Sony PlayStation 5,154.12,281.43,2
+687,LG OLED TV,638.0,399.11,5
+688,Dell XPS 13,233.95,691.5,4
+689,LG OLED TV,709.43,176.31,3
+690,Amazon Echo,994.73,404.21,1
+691,Sony PlayStation 5,87.64,540.61,3
+692,Samsung Galaxy S21,698.12,120.1,4
+693,Sony PlayStation 5,575.16,67.21,4
+694,Nintendo Switch,927.05,162.94,6
+695,Apple iPhone 12,454.93,541.63,6
+696,Samsung Galaxy S21,74.64,782.18,5
+697,Samsung Galaxy S21,461.71,197.29,2
+698,LG OLED TV,100.77,550.47,2
+699,Apple AirPods,546.57,10.25,5
+700,Apple AirPods,272.13,400.52,2
+701,Google Pixel 6,396.39,511.03,5
+702,Microsoft Surface Pro,742.36,558.98,4
+703,Nintendo Switch,712.95,750.43,2
+704,Nintendo Switch,575.47,35.14,5
+705,Apple AirPods,735.48,260.11,1
+706,Microsoft Surface Pro,220.83,616.56,5
+707,Dell XPS 13,354.96,433.58,5
+708,Microsoft Surface Pro,811.29,751.38,3
+709,Dell XPS 13,633.26,183.79,1
+710,Apple iPhone 12,335.81,369.55,2
+711,Apple AirPods,778.69,414.38,1
+712,Google Pixel 6,238.97,635.32,3
+713,Microsoft Surface Pro,466.32,333.64,6
+714,Canon DSLR Camera,928.12,700.09,2
+715,Sony PlayStation 5,746.62,357.88,6
+716,Apple AirPods,633.69,754.11,1
+717,Sony PlayStation 5,941.97,133.15,6
+718,Dell XPS 13,116.34,330.02,4
+719,LG OLED TV,713.46,38.98,1
+720,LG OLED TV,383.26,713.78,4
+721,Apple AirPods,756.97,456.67,5
+722,Apple iPhone 12,294.56,173.65,4
+723,Dell XPS 13,495.75,22.96,4
+724,Dell XPS 13,561.33,130.57,3
+725,LG OLED TV,126.13,514.59,5
+726,Bose Headphones,729.41,89.78,4
+727,Canon DSLR Camera,546.27,461.07,2
+728,Samsung Galaxy S21,280.58,247.37,6
+729,LG OLED TV,60.6,685.6,6
+730,Samsung Galaxy S21,802.78,239.37,5
+731,Samsung Galaxy S21,940.79,8.5,6
+732,Apple AirPods,860.52,62.92,6
+733,Amazon Echo,643.95,627.17,3
+734,Apple AirPods,238.97,545.23,3
+735,Sony PlayStation 5,827.03,549.04,2
+736,Sony PlayStation 5,607.08,59.15,2
+737,Sony PlayStation 5,864.89,599.14,1
+738,Apple iPhone 12,184.67,479.76,3
+739,Dell XPS 13,894.02,643.91,1
+740,Sony PlayStation 5,814.59,683.08,2
+741,Apple AirPods,183.78,191.3,6
+742,Nintendo Switch,265.84,549.91,5
+743,LG OLED TV,641.11,650.0,4
+744,Bose Headphones,398.46,237.23,4
+745,LG OLED TV,116.86,296.21,4
+746,Amazon Echo,781.14,261.26,5
+747,Samsung Galaxy S21,614.34,14.72,4
+748,Google Pixel 6,887.62,138.3,3
+749,Nintendo Switch,696.89,405.02,2
+750,Microsoft Surface Pro,530.2,215.62,1
+751,Canon DSLR Camera,882.85,527.45,1
+752,Bose Headphones,735.71,480.79,2
+753,Sony PlayStation 5,609.85,463.67,6
+754,Bose Headphones,257.56,594.4,6
+755,Amazon Echo,245.12,366.84,1
+756,LG OLED TV,828.34,649.93,4
+757,Canon DSLR Camera,837.23,298.36,6
+758,LG OLED TV,924.58,309.42,6
+759,Amazon Echo,80.17,595.15,2
+760,Microsoft Surface Pro,949.31,200.16,6
+761,Samsung Galaxy S21,948.1,371.68,3
+762,Nintendo Switch,186.49,679.0,4
+763,Canon DSLR Camera,741.59,123.89,4
+764,Canon DSLR Camera,996.05,437.49,2
+765,LG OLED TV,9.91,364.56,4
